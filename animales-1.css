@@ -90,8 +90,8 @@ nav ul {
 .forever1{
 	position: absolute;
 	width: 34.5%;
-	bottom: -110px /*143px*/;
-	margin-left: 210px;
+	bottom: -129px /*143px*/;
+	margin-left: 263px;
 	cursor: pointer;
 	color: black;
 	transition: all 0.3s
